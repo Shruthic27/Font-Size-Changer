@@ -1,0 +1,29 @@
+.note{
+    font-size: 15px;
+    color: black;
+    }
+    
+    .head{
+    font-size: 25px;
+    }
+    
+    .footer{
+        background-color:cadetblue;
+        position: fixed;
+        bottom: 0px;
+        line-height: 3;
+        font-size: 18px;
+    }
+    h3{
+        box-shadow: 5px 5px 5px purple;
+        
+    }
+    
+    canvas{
+        background-color: white;
+        border-color:black ;
+        border-width: 3px;
+        border-style: solid;
+        box-shadow: 5px 5px 5px darkred;
+        border-radius: 20px;
+    }
